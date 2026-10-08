@@ -7,4 +7,4 @@ Hasil Uji Studi Kasus 2 Oleh Moh. Gazna A.R.
 |----|-------|---------|------------|----------|--------|
 | 1  |   1   |    1    |     1      |tdk berhak|   Ya   |
 | 2  |   2   |    2    |     2      |tdk berhak|   Ya   |
-| 3  |   3   |    3    |     3      |tdk berhak|   Ya   |
+| 3  |   3   |    3    |     3      |tdk berhak|   Ya   | 
